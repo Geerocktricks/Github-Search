@@ -17,7 +17,7 @@ This is a WebApp which allows it's users to be able to search for users on Githu
 * Users should be able to key in github user names 
 * A brief outlay of their profile should be shown
 * Users can easily search more than once in a go
-* Time of starting their account should be visible --
+* Time of starting their account should be visible 
 
 
 ## Further help

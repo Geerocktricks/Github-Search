@@ -78,3 +78,7 @@ span:after{
     top: 50px;
     width: 27px;
 }
+.btn{
+    transform: translate(1020%,-735%);  
+    box-shadow: 0 8px 5px rgba(0, 0, 0, .1);
+}
