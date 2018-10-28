@@ -1,27 +1,28 @@
-# GithubSearch
+# Github Search App
+## Authors
+* Gerald Waweru Muchuki
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
 
-## Development server
+## Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This is a WebApp which allows it's users to be able to search for users on Github and view the users' profile.
 
-## Code scaffolding
+## Technologies used
+* Html 5
+* css 3
+* Javascript
+* Bootstrap
+* Angular
+## specs
+* Users should be able to key in github user names 
+* A brief outlay of their profile should be shown
+* Users can easily search more than once in a go
+* Time of starting their account should be visible --
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### License
+* MIT 
+Copyright (c) 2018 **by Gerald AKA Geerocktrics*
