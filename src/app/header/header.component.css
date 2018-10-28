@@ -2,7 +2,7 @@
     background: #00b4ff;
     color: #333;
     font: tahoma;
-    height: 95vh;
+    height: 82vh;
     margin: 0;
     padding: 0;
     overflow-x: hidden;
@@ -26,6 +26,7 @@
     height: 120px;
     position: relative;
     width: 350px;
+    background-attachment: fixed;
 }
 
 .cloud:after , .cloud:before{
@@ -58,7 +59,7 @@
 
 .x1{
     animation: animateCloud 35s linear infinite;
-    transform: scale(0.65);
+    transform: scale(0.4);
 }
 
 .x2{
@@ -73,7 +74,7 @@
 
 .x4{
     animation: animateCloud 25s linear infinite;
-    transform: scale(0.40);
+    transform: scale(0.4);
 }
 
 .nav{
